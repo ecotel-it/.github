@@ -20,6 +20,7 @@ infrastructure.
 | `netsec-`  | Networking, sicurezza e cyber security        |
 | `products-`| Prodotti                                      |
 | `apps-`    | Sviluppo applicativo                          |
+| `mgmt-`    | Direzione e management                        |
 
 Starting a new project? Read the [naming convention](https://github.com/ecotel-it/guidelines/blob/main/REPO-NAMING.md) first.
 
